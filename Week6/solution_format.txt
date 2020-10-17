@@ -1,0 +1,7 @@
+phase1_answer: For NASA, space is still a high priority.
+phase2_answer: 1 2 4 8 16 32
+phase3_answer: 1 4294966470
+phase4_answer: 4 2
+phase5_answer: 111122
+phase6_answer: 6 3 1 4 5 2
+secret_phase_answer (optional)
